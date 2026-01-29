@@ -1,0 +1,14 @@
+/* 文字と余白 */
+body { font-family: sans-serif; padding: 20px; }
+
+/* 完了した時の線 */
+.done { text-decoration: line-through; color: gray; }
+
+/* リストの間隔 */
+li { margin-top: 10px; list-style: none; }
+
+/* 削除ボタンの色（赤） */
+.del-btn { color: red; margin-left: 10px; cursor: pointer; }
+
+/* カウンター */
+#count { font-weight: bold; margin-top: 20px; }
